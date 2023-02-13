@@ -23,7 +23,6 @@ const Head = () => {
       } else {
         getSearchSuggestions()
       }
-      getSearchSuggestions()
     }, 200)
 
     return () => {
